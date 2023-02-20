@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+
+}
+.headContainer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+    
+}
